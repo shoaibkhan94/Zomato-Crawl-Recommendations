@@ -3,7 +3,7 @@
 ##Building Kolkata road network using CartoDb. Map link ---->https://shoaibkhan.carto.com/viz/64287ae6-9bfe-11e4-bd91-0e018d66dc29/public_map
 ##Making a recommendation system using reviews and features of restaurant and kolkata road network
 
-###This ismy 4th year project
+###This is my 4th year project
 
 The details of the project are available here ---> http://www.slideshare.net/ShoaibKhan1994/test1-63741146
 
