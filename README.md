@@ -5,6 +5,8 @@
 
 ###This ismy 4th year project
 
+The details of the project are available here ---> http://www.slideshare.net/ShoaibKhan1994/test1-63741146
+
 The database crawler crawls the information of each and every restaurant from cuisines to location
 and facilities provided by a restaurant. There is a Country's.txt and toStartWith.txt file provided.
 The Country's.txt file specifies which countries to be crawled and toStartWith.txt file help the program 
